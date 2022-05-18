@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+
+.nav-item a{
+    text-align: right;
+    display:block;
+    color:#ffffff;
+    padding: 20px;
+    text-decoration:none;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+
+.nav-item a:hover{
+    color:#d5c40e;
+}
+.text-white a:hover {
+    color:#d5c40e;
+}
+
+.Alinear li label{
+    text-align: right;
+}
+
+
